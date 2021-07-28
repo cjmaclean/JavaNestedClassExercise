@@ -30,7 +30,6 @@ public class JavaNestedClass {
         for(Country country: countries) {
             System.out.println(country.displayCountry());
         }
-        //Country country = new Country("France", "Paris");
     }
 
 }
