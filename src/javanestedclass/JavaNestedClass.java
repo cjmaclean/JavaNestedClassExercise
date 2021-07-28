@@ -2,7 +2,6 @@ package javanestedclass;
 
 import java.util.LinkedList;
 
-
 /**
  *
  * @author 30039802 Caspian Maclean
